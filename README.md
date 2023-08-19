@@ -2,7 +2,7 @@
 GitHub Repository for Facial Symmetry Analysis Project
 
 # The Folders
-This repository contains a standalone executable of the project; you can find this in the 'standalone' folder, as well as the python script and the specification (.spec) file that were used in building the executable (these are enclosed in the 'Python_scripts_&_spec_file' folder). The python script (.py) file contains the implementation in Python. In the 'for_conversion' folder, you will find a '.txt' file to install the requirements on your machine in the case that you want to connvert the Python Script (.py) file into a standalone executable. 
+This repository contains a standalone executable of the project; you can find this in the 'standalone_executable' folder, as well as the python script and the specification (.spec) file that were used in building the executable (these are enclosed in the 'Python_scripts_&_spec_file' folder). The python script (.py) file contains the implementation in Python. In the 'for_conversion' folder, you will find a '.txt' file to install the requirements on your machine in the case that you want to connvert the Python Script (.py) file into a standalone executable. 
 
 # The Executable
 The executable is developed to work with Windows Operating System. You don't need to install any dependencies on your machine before launching. To launch the executable, double-click on it. 
